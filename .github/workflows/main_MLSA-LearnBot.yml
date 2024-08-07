@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'MLSA-LearnBot'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_0ccddfe3a90f4df79ed00441e2654972 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c0bc4e16873e405e95da05cef8954dc9 }}
