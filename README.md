@@ -39,7 +39,7 @@ The chatbot can operate autonomously, providing instant responses to queries wit
 Speed Up the Process: Our AI-driven chatbot drastically reduces the time spent searching for information by delivering answers in real-time. Users might no longer need to navigate multiple sources, and the wait time for human assistance would be significantly reduced.
 Simplify It: The chatbot offers a single, user-friendly interface that consolidates all necessary information and resources, making the search process intuitive and straightforward.
 
-## TEAM
+## Team Members
 | NAME | ROLE | LOCATION |
 | :---         |     :---:      |          ---: |
 | Damilare AKINYEMI   | Data Scientist     | Nigeria (Remote)    |
