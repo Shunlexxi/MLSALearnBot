@@ -1,6 +1,4 @@
-![image](src/assets/images/MSLearn_SA_badge_generic_rgb_300ppi.png)
-
-# MLSA LearnBot - MLSA AI Project June to August Cohort
+# MLSA LearnBot - MLSA AI Project | June to August Cohort
 
 🚀 Welcome to the GitHub repository for our AI Project Submission!
 
@@ -27,8 +25,8 @@ Copilot for AI-assisted coding.
 - Additionally, Microsoft Word was used for documentation
 
 
-## DEMO
-//TODO
+## Watch the Video Demo
+[![Watch Video](/src/assets/images/Thumbnail.png)](https://youtu.be/A91vDr2Q6Wo)
 
 ## Takeaways
 ### What do we recommend our audience start doing? 
@@ -42,6 +40,12 @@ Speed Up the Process: Our AI-driven chatbot drastically reduces the time spent s
 Simplify It: The chatbot offers a single, user-friendly interface that consolidates all necessary information and resources, making the search process intuitive and straightforward.
 
 ## TEAM
-//TO DO
+| NAME | ROLE | LOCATION |
+| :---         |     :---:      |          ---: |
+| Damilare AKINYEMI   | Data Scientist     | Nigeria (Remote)    |
+| Taiwo OMOYENI    | Developer       | Nigeria (Remote)      |
+| Emmanuel OMOLAJA  | Web Designer (Front-end) | Nigeria (Remote) |
+| Jessica  ESCOBEDO	| Data Scientist |  Mexico (Remote) |
 
-# THANK YOU
+
+# 🎉Thanks
