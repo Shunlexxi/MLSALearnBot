@@ -28,7 +28,6 @@ Copilot for AI-assisted coding.
 
 ## Watch the Video Demo
 Click on the Image to wacth the Demo Video.
-
 [![Watch Video](/src/assets/images/Thumbnail.png)](https://youtu.be/A91vDr2Q6Wo)
 
 ## Takeaways
